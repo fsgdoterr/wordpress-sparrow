@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/*
+Theme Name: Sparrow
+Theme URI: https://github.com/fsgdoterr/
+Author: fsgdoterr
+Author URI: https://github.com/fsgdoterr/
+*/
+
+ul#nav li.current_page_item a { color: #fff; }
+
+.wp-block-tag-cloud a {
+    font-size: 20px !important; 
+}
+
+#contact-form input[type="submit"] {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 24px;
+    max-width: max-content;
+}
+
+textarea {
+    resize: none;
+}
